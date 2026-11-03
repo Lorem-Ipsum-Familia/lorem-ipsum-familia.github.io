@@ -1,5 +1,6 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+[![Go Report](https://goreportcard.com/badge/github.com/Gskartwii/roblox-dissector)](https://goreportcard.com/report/github.com/Gskartwii/roblox-dissector)
 ###
 
 <div data-importer="techs" align="left">
